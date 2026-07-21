@@ -1,0 +1,5 @@
+homepage: "https://github.com/welayer/welayer-gtm-template"
+documentation: "https://github.com/welayer/welayer-gtm-template/blob/main/README.md"
+versions:
+  - sha: "AUTO_GENERATED"
+    changeNotes: "Initial public release."

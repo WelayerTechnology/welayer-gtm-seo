@@ -1,2 +1,15 @@
-# welayer-gtm-seo
-Collects standardized website events with privacy-first consent management, automatic identity handling, and reliable server-side delivery to WeLayer for analytics, SEO insights, and data integration.
+# WeLayer GTM Tracking Template
+
+## Overview
+WeLayer Tracking is a Google Tag Manager Community Template for collecting standardized website events with consent-aware identity handling.
+
+## Features
+- GTM Community Template
+- Consent Mode aware
+- SPA compatible
+- Automatic GTM Container ID
+- Configurable Legal Version
+- Debug mode
+- GA4 ecommerce event support
+
+See `docs/installation.md` and `docs/events.md`.
