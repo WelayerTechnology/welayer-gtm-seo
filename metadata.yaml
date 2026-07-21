@@ -1,5 +1,5 @@
 homepage: "https://github.com/WelayerTechnology/welayer-gtm-seo"
 documentation: "https://github.com/WelayerTechnology/welayer-gtm-seo/blob/main/README.md"
 versions:
-  - sha: "AUTO_GENERATED"
+  - sha: "1adb8579a9c19a3f80973cb6304e7ba9afc1323c"
     changeNotes: "Initial public release."
